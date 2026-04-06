@@ -19,7 +19,7 @@ It identifies materials like **plastic and metal**, tracks bin levels, and sends
 ## 📷 Real Project Images
 
 ### 🔌 Hardware (ESP32 + Sensors)
-![Hardware Setup](images/hardware.jpg)
+![Hardware Setup](https://github.com/DeepDon/Smart-Waste-Segregator-IoT/blob/main/esp32.png)
 
 ### 📊 Dashboard Interface
 ![Dashboard](images/dashboard.jpg)
