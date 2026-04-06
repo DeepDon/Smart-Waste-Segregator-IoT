@@ -25,7 +25,7 @@ It identifies materials like **plastic and metal**, tracks bin levels, and sends
 ![Dashboard](https://github.com/DeepDon/Smart-Waste-Segregator-IoT/blob/main/dashboard.png)
 
 ### 🗑️ Smart Dustbin Prototype
-![Dustbin](images/dustbin.jpg)
+![Dustbin](https://github.com/DeepDon/Smart-Waste-Segregator-IoT/blob/main/Dust%20bin.png)
 
 > 📁 Place your images inside a folder named `images/` in your repo and rename accordingly.
 
